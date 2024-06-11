@@ -1,3 +1,14 @@
+2 cents
+
+1. 文档里提到这个，不禁让我想到cocos这种 里面富含2d 3d的支持，游戏演示视频的录制是否可以
+>理论上所有的Web动画/图形库都能够在WVC环境正常运行，以下仅列出我已验证可用的库：Anime.js / GSAP / D3.js / Three.js / Echart / Lottie-Web / PixiJS / Animate.css / Mo.js / Tween.js
+
+2.webgal刚启动的时候我就问过能不能录屏，这个工具是否可以
+
+3.saas工具的落地页中内置的动画是否可以用这个工具转换成视频
+
+
+
 [简体中文](./README.md) | [English](./README.en-US.md)
 
 <p align="center" style="background:#fff">
